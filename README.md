@@ -1,4 +1,4 @@
-# SAS_Utilities
+# SAS Utilities
 A repository of several SAS utilities that make SAS data processing tasks much faster/easier.
 
 Here is the list of utilities with a description for each:
