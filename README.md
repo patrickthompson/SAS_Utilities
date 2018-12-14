@@ -1,5 +1,5 @@
 # SAS Utilities
-A repository of several SAS utilities that make SAS data processing tasks much faster/easier.
+A repository of several utilities for SAS dataset importing, exporting, cleaning, documenting, and reporting.
 
 Here is a list of the folders with descriptions of the files in each:
 
